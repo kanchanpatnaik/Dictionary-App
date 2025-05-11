@@ -14,3 +14,5 @@ A sleek, responsive English Dictionary web application that fetches definitions,
 - JavaScript
 - [Dictionary API](https://dictionaryapi.dev/)
 - FontAwesome & Material Icons
+
+URL for website: https://kanchanpatnaik.github.io/Dictionary-App/
