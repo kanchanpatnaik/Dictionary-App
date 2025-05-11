@@ -8,6 +8,7 @@ A sleek, responsive English Dictionary web application that fetches definitions,
 - Clickable synonyms for quick exploration of related words
 - Fully responsive design – optimized for **mobile and desktop**
 - Fast performance with no external libraries
+- Supports **100,000+ English words**
 
 # Technologies Used
 - HTML
