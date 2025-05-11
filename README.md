@@ -2,11 +2,12 @@
 A sleek, responsive English Dictionary web application that fetches definitions, examples, phonetics, and synonyms for any word you search. Built using HTML, CSS, and JavaScript, it utilizes the [Dictionary API](https://dictionaryapi.dev/) to deliver real-time data.
 
 # Features
-- Search for any English word
-- Hear pronunciation using the built-in audio
-- View word definitions, usage examples, and part of speech
-- Clickable synonyms to search related words
-- Fully responsive and mobile-friendly UI
+- Search any English word in **real-time**
+- Display of **4+ word attributes**: definition, part of speech, examples, synonyms
+- Built-in audio playback for **instant pronunciation**
+- Clickable synonyms for quick exploration of related words
+- Fully responsive design – optimized for **mobile and desktop**
+- Fast performance with no external libraries
 
 # Technologies Used
 - HTML
